@@ -31,14 +31,6 @@
       "telefono": "",
       "notas": "",
       "id": 6
-    },
-    {
-      "nombre": "Edgar",
-      "empresa": "Edgar Company",
-      "email": "correo@correo.com",
-      "telefono": "457845",
-      "notas": "El Cliente solicita un servidor",
-      "id": 8
     }
   ]
 }
