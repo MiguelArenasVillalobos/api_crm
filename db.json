@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Miguel",
+      "empresa": "MAV",
+      "email": "hola@hola.com",
+      "telefono": "547658785",
+      "notas": "Cliente recomendado por otro",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Diseño",
+      "email": "karen@karen.com",
+      "telefono": "55465465",
+      "notas": "Karen está haciendo cosas de Karen",
+      "id": 4
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "correo@correo.com",
+      "telefono": "54660655098387",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Pablo",
+      "empresa": "Pablo Company",
+      "email": "pablo@correo.com",
+      "telefono": "",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Edgar Company",
+      "email": "correo@correo.com",
+      "telefono": "457845",
+      "notas": "El Cliente solicita un servidor",
+      "id": 8
+    }
+  ]
+}
