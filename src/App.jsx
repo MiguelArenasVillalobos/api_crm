@@ -13,11 +13,12 @@ function App() {
     <BrowserRouter>
       <Routes>
         
-        <Route exact path='/'
+        <Route path='/'
           element={
             <Navigate to="/clientes" replace={true} />
           }
         />
+
         <Route>
           <Route path='/clientes' element={<Layout />}>
             <Route index element={<Inicio />} />
